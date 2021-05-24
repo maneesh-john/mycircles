@@ -1,0 +1,6 @@
+module Pods_MyCircles_MyCirclesTests {
+  umbrella header "Pods-MyCircles-MyCirclesTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

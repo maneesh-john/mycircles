@@ -1,0 +1,6 @@
+module Pods_MyCircles {
+  umbrella header "Pods-MyCircles-umbrella.h"
+
+  export *
+  module * { export * }
+}
