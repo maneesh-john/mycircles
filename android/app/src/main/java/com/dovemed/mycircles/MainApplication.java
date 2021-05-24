@@ -1,4 +1,4 @@
-package com.mycircles;
+package com.dovemed.mycircles;
 
 import android.app.Application;
 import android.content.Context;

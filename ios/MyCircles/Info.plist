@@ -5,7 +5,9 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
-	<string>MyCircles</string>
+	<string>Dovemed MyCircles</string>
+	<key>CFBundleIdentifier</key>
+  	<string>com.dovemed.mycircles</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>

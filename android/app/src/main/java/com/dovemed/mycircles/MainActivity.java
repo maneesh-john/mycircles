@@ -1,4 +1,4 @@
-package com.mycircles;
+package com.dovemed.mycircles;
 
 import com.facebook.react.ReactActivity;
 

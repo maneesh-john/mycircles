@@ -131,7 +131,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.mycircles"
+        applicationId "com.dovemed.mycircles"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
