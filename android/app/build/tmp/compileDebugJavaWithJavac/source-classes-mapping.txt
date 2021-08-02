@@ -1,14 +1,14 @@
-com/mycircles/MainApplication.java
- com.mycircles.MainApplication
- com.mycircles.MainApplication$1
-com/mycircles/MainActivity.java
- com.mycircles.MainActivity
+com/dovemed/mycircles/BuildConfig.java
+ com.dovemed.mycircles.BuildConfig
+com/dovemed/mycircles/MainApplication.java
+ com.dovemed.mycircles.MainApplication
+ com.dovemed.mycircles.MainApplication$1
 com/mycircles/ReactNativeFlipper.java
  com.mycircles.ReactNativeFlipper
  com.mycircles.ReactNativeFlipper$1
  com.mycircles.ReactNativeFlipper$2
  com.mycircles.ReactNativeFlipper$2$1
-com/mycircles/BuildConfig.java
- com.mycircles.BuildConfig
+com/dovemed/mycircles/MainActivity.java
+ com.dovemed.mycircles.MainActivity
 com/facebook/react/PackageList.java
  com.facebook.react.PackageList
